@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Common
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1C31A1E3-9F48-4FD0-9B05-B406376C56AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Application", "..\TaskManagementSystem.Application\TaskManagementSystem.Application.csproj", "{5D657CDB-C0E7-4400-8082-6A6C8C8B7E9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Application", "TaskManagementSystem.Application\TaskManagementSystem.Application.csproj", "{5D657CDB-C0E7-4400-8082-6A6C8C8B7E9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.UnitTests", "..\TaskManagementSystem.UnitTests\TaskManagementSystem.UnitTests.csproj", "{FE8D99F5-5407-47C4-9E13-EAB3496146E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.UnitTests", "TaskManagementSystem.UnitTests\TaskManagementSystem.UnitTests.csproj", "{FE8D99F5-5407-47C4-9E13-EAB3496146E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
